@@ -1,9 +1,11 @@
 fastai>=0.0.11
 graphviz
+ipython!=7.17.0  # pip-compile gave this version, but pip can't find it
 ipywidgets
 matplotlib
 nbdev>=0.2.12
 pandas
+pyyaml==5.1.2  # if not pinned then pip will try and fail to uninstall this version
 scikit_learn
 azure-cognitiveservices-search-imagesearch
 sentencepiece

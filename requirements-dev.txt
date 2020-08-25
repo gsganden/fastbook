@@ -17,7 +17,7 @@ identify==1.4.29          # via pre-commit
 importlib-metadata==1.7.0  # via -c requirements.txt, pre-commit, virtualenv
 ipdb==0.13.3              # via -r requirements-dev.in
 ipython-genutils==0.2.0   # via -c requirements.txt, traitlets
-ipython==7.17.0           # via -c requirements.txt, ipdb, nb-black
+ipython==7.16.1           # via -c requirements.txt, ipdb, nb-black
 jedi==0.17.2              # via -c requirements.txt, ipython
 nb-black==1.0.7           # via -r requirements-dev.in
 nodeenv==1.5.0            # via pre-commit
@@ -30,7 +30,7 @@ pre-commit==2.7.1         # via -r requirements-dev.in
 prompt-toolkit==3.0.6     # via -c requirements.txt, ipython
 ptyprocess==0.6.0         # via -c requirements.txt, pexpect
 pygments==2.6.1           # via -c requirements.txt, ipython
-pyyaml==5.3.1             # via -c requirements.txt, pre-commit
+pyyaml==5.1.2             # via -c requirements.txt, pre-commit
 regex==2020.7.14          # via black
 six==1.15.0               # via -c requirements.txt, pip-tools, traitlets, virtualenv
 toml==0.10.1              # via black, pre-commit

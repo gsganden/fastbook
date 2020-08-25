@@ -1,0 +1,7 @@
+-c requirements.txt
+
+black
+ipdb
+nb_black
+pip-tools
+pre-commit

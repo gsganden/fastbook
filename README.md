@@ -26,7 +26,7 @@ Build the container:
 docker build . -t fastbook
 ```
 
-Run jupyterlab from inside the container:
+Run jupyter notebook from inside the container:
 
 ```
 ./docker_jupyter.sh

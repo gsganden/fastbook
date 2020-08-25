@@ -18,7 +18,7 @@ If you make any pull requests to this repo, then you are assigning copyright of 
 
 # Docker Stuff
 
-This fork of the fastbook repo adds files to use pip-tools and docker rather than conda to manage dependencies. Here's how to use it.
+This fork of the fastbook repo adds files to use pip-tools and nvidia-sdocker rather than conda to manage dependencies. Here's how to use it.
 
 Build the container:
 

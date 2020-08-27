@@ -4,6 +4,8 @@
 #
 #    pip-compile requirements-dev.in
 #
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
 appdirs==1.4.4            # via black, virtualenv
 attrs==20.1.0             # via -c requirements.txt, black
 backcall==0.2.0           # via -c requirements.txt, ipython
